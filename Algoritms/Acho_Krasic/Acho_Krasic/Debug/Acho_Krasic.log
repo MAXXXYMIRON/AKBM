@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\nikolaj\desktop\.пары\саод\практика\akho\algoritms\acho_krasic\acho_krasic\source.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolaj\desktop\.пары\саод\практика\akho\algoritms\acho_krasic\acho_krasic\source.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolaj\desktop\.пары\саод\практика\akho\algoritms\acho_krasic\acho_krasic\source.cpp(80): warning C4305: return: усечение из "int" в "bool"
+c:\users\nikolaj\desktop\.пары\саод\практика\akho\algoritms\acho_krasic\acho_krasic\source.cpp(170): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolaj\desktop\.пары\саод\практика\akho\algoritms\acho_krasic\acho_krasic\source.cpp(179): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Acho_Krasic.vcxproj -> C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\Acho_Krasic\Debug\Acho_Krasic.exe

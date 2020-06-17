@@ -1,0 +1,7 @@
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\bin\Debug\Algoritms.exe.config
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\bin\Debug\Algoritms.exe
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\bin\Debug\Algoritms.pdb
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\obj\Debug\Algoritms.csprojAssemblyReference.cache
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\obj\Debug\Algoritms.csproj.CoreCompileInputs.cache
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\obj\Debug\Algoritms.exe
+C:\Users\Nikolaj\Desktop\.ПАРЫ\САОД\ПРАКТИКА\akho\Algoritms\obj\Debug\Algoritms.pdb
